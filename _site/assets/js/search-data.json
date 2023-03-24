@@ -1,0 +1,938 @@
+{"0": {
+    "doc": "Automated Tests",
+    "title": "Automated Tests",
+    "content": "Details related to DevOps and developing Voyajer on the Salesforce platform. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/automatedtests/",
+    "relUrl": "/docs/qualityassurance/automatedtests/"
+  },"1": {
+    "doc": "Automated Tests",
+    "title": "Current Tests List",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/automatedtests/#current-tests-list",
+    "relUrl": "/docs/qualityassurance/automatedtests/#current-tests-list"
+  },"2": {
+    "doc": "Automated Tests",
+    "title": "Test Results",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/automatedtests/#test-results",
+    "relUrl": "/docs/qualityassurance/automatedtests/#test-results"
+  },"3": {
+    "doc": "Automated Tests",
+    "title": "Test Suggestions",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/automatedtests/#test-suggestions",
+    "relUrl": "/docs/qualityassurance/automatedtests/#test-suggestions"
+  },"4": {
+    "doc": "Community",
+    "title": "Community",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/community/",
+    "relUrl": "/docs/userguide/community/community/"
+  },"5": {
+    "doc": "Conga",
+    "title": "Conga",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/conga/conga/",
+    "relUrl": "/docs/userguide/conga/conga/"
+  },"6": {
+    "doc": "Customer",
+    "title": "Community - Customer",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/customer/#community---customer",
+    "relUrl": "/docs/userguide/community/customer/#community---customer"
+  },"7": {
+    "doc": "Customer",
+    "title": "Dashboard - Productions",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/customer/#dashboard---productions",
+    "relUrl": "/docs/userguide/community/customer/#dashboard---productions"
+  },"8": {
+    "doc": "Customer",
+    "title": "Enter Itinerary",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/customer/#enter-itinerary",
+    "relUrl": "/docs/userguide/community/customer/#enter-itinerary"
+  },"9": {
+    "doc": "Customer",
+    "title": "Documents",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/customer/#documents",
+    "relUrl": "/docs/userguide/community/customer/#documents"
+  },"10": {
+    "doc": "Customer",
+    "title": "Customer",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/customer/",
+    "relUrl": "/docs/userguide/community/customer/"
+  },"11": {
+    "doc": "Dashboards",
+    "title": "Dashboards",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/dashboards/",
+    "relUrl": "/docs/userguide/dashboards/dashboards/"
+  },"12": {
+    "doc": "Data Model",
+    "title": "Data Model",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodel/",
+    "relUrl": "/docs/technicaldiagrams/datamodel/"
+  },"13": {
+    "doc": "Data Model",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodel/#table-of-contents",
+    "relUrl": "/docs/technicaldiagrams/datamodel/#table-of-contents"
+  },"14": {
+    "doc": "Data Model",
+    "title": "Scope",
+    "content": "This diagram should cover all system connections at a high level without getting into the technical details. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodel/#scope",
+    "relUrl": "/docs/technicaldiagrams/datamodel/#scope"
+  },"15": {
+    "doc": "Data Model",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodel/#diagram",
+    "relUrl": "/docs/technicaldiagrams/datamodel/#diagram"
+  },"16": {
+    "doc": "Data Model",
+    "title": "Details",
+    "content": "The above data model includes connections across all of the system, but there are important subsets of the Objects and how they are related. Some examples include . | Stay and Bid information | Stay and Bid and Revenue information | Stay and Bid and Room Types and Revenue information | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodel/#details",
+    "relUrl": "/docs/technicaldiagrams/datamodel/#details"
+  },"17": {
+    "doc": "Data Model - Corp Housing",
+    "title": "Data Model",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/#data-model",
+    "relUrl": "/docs/technicaldiagrams/datamodelcorphousing/#data-model"
+  },"18": {
+    "doc": "Data Model - Corp Housing",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/#table-of-contents",
+    "relUrl": "/docs/technicaldiagrams/datamodelcorphousing/#table-of-contents"
+  },"19": {
+    "doc": "Data Model - Corp Housing",
+    "title": "Scope",
+    "content": "This diagram covers the Important connections for Bids in Corporate Housing stay types. Not a complete list of every single connection and object but highlited or shown in terms of relevance. Should not be used as a complete reference to the entire Data Model. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/#scope",
+    "relUrl": "/docs/technicaldiagrams/datamodelcorphousing/#scope"
+  },"20": {
+    "doc": "Data Model - Corp Housing",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/#diagram",
+    "relUrl": "/docs/technicaldiagrams/datamodelcorphousing/#diagram"
+  },"21": {
+    "doc": "Data Model - Corp Housing",
+    "title": "Details",
+    "content": "The Corporate Housing Record Type and Bid Selection process varies in that it requires a provider to be selected first. Bid is created on the Stay Tab on Dashboard for a Provider Bid with Provider populated and empty Vendor is a potential building a Provider would supply. Bid_c (Object) ○ Account (Provider_c) (Lookup Field) ○ Account (Vendor_c) (Lookup Field) When the Bid is in the state of making contact with the Vendor it would have Journals added to it . Bid Journals ○ Attached to Bid_c in their Journal__c record These journals need to be available when the Provider were to match on the Journals’ Bid records When the Vendor is selected and the bid is created for the Vendor the Bid would then have both Provider_c and Vendor_c populated. A second Bid for that provider to link with a Vendor Account would be created if a second bid was to be created for that Provider. The solution that would be best would be if we were to link the Providers and the Journals in addition to the Bids so that we can query bids where that Provider Id is the one that was stamped in a created journal for that providers’ bid. Journal entered by Coordinator for Provider &gt; Journal created also copied Provider_c to new lookup and creates the bid Journal the same way. With the Housing statuses after talking to Sarah it seems we are OK as the status change stamps would be on a Stay level and applicable to all bids for a Parent Housing status change. The manually entered journals in Corporate Housing almost always would be the manually entered ones but since we don’t have to worry about omitting the status changes I think we are OK to skip that. To be clear your solution was solid and would have worked, the Providers first Bid associated record would chronologically happen first, but it is the second portion that makes me think stamping provider Id would be the best bet for identifying it later given what should be shown. Recap: . Provider and no Vendor (Building) for data on the bid is a Bid about to be associated with a Building that coordinators are coordinating Vendor and no Provider data on the bid would be for a Building not working through a provider Vendor and Provider Populated is a Building for a provider grouped on the Stay by the Provider Id Contracting happens after the selection is finally made at the end for the Bid record that is selected by Client. Solution ○ Journal Creation from the Bid (in Corporate Housing record type only) try to write the Providerc from the Bid to the Journal Record via a lookup created on Journalc to Provider__c object. Change Query for Bid Journals to show Bid Journals where the Provider and Bid matched (for corporate housing, not relevant in other record types). Workflow Example and Outcome Create a Bid for a Provider Log some journals The Bid journals on that bid are what we expect to be on a new bid under this stay for that provider Add Vendor Create another bid for the Provider Attach Vendor to Providers 2nd bid and ensure the Bid Journals logged for the initial bid are also present. | Object (RecordType) | Description | Linkage | . | Housing (Preferred Room Types) | The selections on the Housing Details tab that are at the beginning tab of the Dashboard | Production_CC__c | . | Housing (Preferred Room Types) | The selections on the Housing Details tab that are at the beginning tab of the Dashboard | Sales_Housing__c (links to Stay, not Sales Housing record Type) | . | Housing (Sales Housing) | The container for Stays under a Production use record type Sales Housing and have children Stays | Sales_Housing__c on Hotel Housing/CH/IR | . | Housing (Hotel Housing/CH/IR) | The “Stay” that represents the timeframe at the Hotel for a data range | Sales_Housing__c parent and Production_CC__c grandparent | . | Bid (Housing Bid) | The Bid which is a child of the Stay record and is the parent of the final room type children record that have Rate Information | Housing__c on Bid up to Production | . | Housing (Room Types) | The representations of the different rooms on the Bid itself which contain Rate information and tie to Revenue records further down | Bid__c parent | . | Account (Provider) | The Provider chosen as the Provider for the Bid. Is a lookup to Account and is used with Record Type Corporate Housing Vendor |   | . | Account (Vendor) | The Vendor chosen as the Vendor for the Bid. Is a lookup to Account and is used with Record Type Vendor |   | . | Account (Venue) | The Venue chosen as the Venue for the Bid. Is a lookup to Account and is used with Record Type Venue |   | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/#details",
+    "relUrl": "/docs/technicaldiagrams/datamodelcorphousing/#details"
+  },"22": {
+    "doc": "Data Model - Corp Housing",
+    "title": "Data Model - Corp Housing",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/",
+    "relUrl": "/docs/technicaldiagrams/datamodelcorphousing/"
+  },"23": {
+    "doc": "Data Model - Room Types",
+    "title": "Data Model",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/#data-model",
+    "relUrl": "/docs/technicaldiagrams/datamodelroomtypes/#data-model"
+  },"24": {
+    "doc": "Data Model - Room Types",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/#table-of-contents",
+    "relUrl": "/docs/technicaldiagrams/datamodelroomtypes/#table-of-contents"
+  },"25": {
+    "doc": "Data Model - Room Types",
+    "title": "Scope",
+    "content": "This diagram covers the areas where Room Types are used and attached to several different objects. (Housing__c Object - Room Types and Ops Record Type) . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/#scope",
+    "relUrl": "/docs/technicaldiagrams/datamodelroomtypes/#scope"
+  },"26": {
+    "doc": "Data Model - Room Types",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/#diagram",
+    "relUrl": "/docs/technicaldiagrams/datamodelroomtypes/#diagram"
+  },"27": {
+    "doc": "Data Model - Room Types",
+    "title": "Details",
+    "content": "| Object (RecordType) | Description | Linkage | . | Housing (Preferred Room Types) | The selections on the Housing Details tab that are at the beginning tab of the Dashboard | Production_CC__c | . | Housing (Preferred Room Types) | The selections on the Housing Details tab that are at the beginning tab of the Dashboard | Sales_Housing__c (links to Stay, not Sales Housing record Type) | . | Housing (Sales Housing) | The container for Stays under a Production use record type Sales Housing and have children Stays | Sales_Housing__c on Hotel Housing/CH/IR | . | Housing (Hotel Housing/CH/IR) | The “Stay” that represents the timeframe at the Hotel for a data range | Sales_Housing__c parent and Production_CC__c grandparent | . | Bid (Housing Bid) | The Bid which is a child of the Stay record and is the parent of the final room type children record that have Rate Information | Housing__c on Bid up to Production | . | Housing (Room Types) | The representations of the different rooms on the Bid itself which contain Rate information and tie to Revenue records further down | Bid__c parent | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/#details",
+    "relUrl": "/docs/technicaldiagrams/datamodelroomtypes/#details"
+  },"28": {
+    "doc": "Data Model - Room Types",
+    "title": "Data Model - Room Types",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/",
+    "relUrl": "/docs/technicaldiagrams/datamodelroomtypes/"
+  },"29": {
+    "doc": "Data Model - Traces",
+    "title": "Data Model",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/#data-model",
+    "relUrl": "/docs/technicaldiagrams/datamodeltraces/#data-model"
+  },"30": {
+    "doc": "Data Model - Traces",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/#table-of-contents",
+    "relUrl": "/docs/technicaldiagrams/datamodeltraces/#table-of-contents"
+  },"31": {
+    "doc": "Data Model - Traces",
+    "title": "Scope",
+    "content": "This diagram shows specific connections between Tasks and their parent objects. The Parent Object dictates what type of “Trace” it is. Each type of trace has a parent/child representation in the diagram separated out. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/#scope",
+    "relUrl": "/docs/technicaldiagrams/datamodeltraces/#scope"
+  },"32": {
+    "doc": "Data Model - Traces",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/#diagram",
+    "relUrl": "/docs/technicaldiagrams/datamodeltraces/#diagram"
+  },"33": {
+    "doc": "Data Model - Traces",
+    "title": "Details",
+    "content": "| Field | Usage | . | OwnerId | Used for task assignment and is the Coordinator responsible for finishing the task. | . | ActivityDate | Used as a Date field that is a due date for the specific task to be done. | . | Subject | Standard field that gets populated with a “Trace Subject” which is a workflow action to be done, or a status based identifier for a task. | . | Status | Open and Completed are the statuses and an Open status would be set for active traces. Completed traces have the Status=Completed and that omits it from dashboards. | . | Priority | The priority of Housing Status Traces is set and is either No Follow Up, Low Follow Up, Urgent Follow Up and is a selection that can be made by Coordinators for searches on the Trace Dashboard and when they set Housing Statuses. | . | WhatId (Related To Id) | Object Id of either Production,Bid_c,Housing_c, which are “All Other Tasks”, “Contract Tasks”, and “Housing Status Traces” respectively. | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/#details",
+    "relUrl": "/docs/technicaldiagrams/datamodeltraces/#details"
+  },"34": {
+    "doc": "Data Model - Traces",
+    "title": "Data Model - Traces",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/",
+    "relUrl": "/docs/technicaldiagrams/datamodeltraces/"
+  },"35": {
+    "doc": "DB Sync",
+    "title": "DB Sync",
+    "content": "DB Sync is a 3rd party application in SF that facilitates Quickbooks integration items, and runs logic to work with Customers (Accounts) and Vendors (Hotels) to generate invoices and Accounting specific details from Salesforce data. The major impacted areas are Revenue__c records, Bid__c records, and fields labeled “Sync to QB”. The portal has access to connect to a Quickbooks file on the Quickbooks side and an org on the Salesforce side to run the Workflow logic against, and will sync and create records when triggered to run. Ultimately it will run on a schedule or be able to be done on demand. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/dbsync/",
+    "relUrl": "/docs/technicaldocumentation/dbsync/"
+  },"36": {
+    "doc": "DB Sync",
+    "title": "Table of contents",
+    "content": ". | DB Sync . | Scope | Details . | Portal | Workflows | Automation in SF | . | References | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/dbsync/#table-of-contents",
+    "relUrl": "/docs/technicaldocumentation/dbsync/#table-of-contents"
+  },"37": {
+    "doc": "DB Sync",
+    "title": "Scope",
+    "content": "Covers the technical side of the DB Sync implementation: . | Portal Access | Workflows in Portal | Automation in SF | Setup in RR | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/dbsync/#scope",
+    "relUrl": "/docs/technicaldocumentation/dbsync/#scope"
+  },"38": {
+    "doc": "DB Sync",
+    "title": "Details",
+    "content": "Portal . The portal is hosted by DBSync and is where you can view logs, jobs, and connection settings and anything else related to DBSync. URL: Portal Login User: autumn@roadrebel.com Password: see clay/sarah&lt;&gt; . Workflows . Automation in SF . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/dbsync/#details",
+    "relUrl": "/docs/technicaldocumentation/dbsync/#details"
+  },"39": {
+    "doc": "DB Sync",
+    "title": "References",
+    "content": ". | https://code.visualstudio.com/docs/editor/github | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/dbsync/#references",
+    "relUrl": "/docs/technicaldocumentation/dbsync/#references"
+  },"40": {
+    "doc": "Development",
+    "title": "Development",
+    "content": "Details related to DevOps and developing Voyajer on the Salesforce platform. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development",
+    "relUrl": "/docs/development"
+  },"41": {
+    "doc": "Housing Dashboard",
+    "title": "Housing Dashboard",
+    "content": "The user guide is broken down into the functional areas of the dashboards, broken down by service and then by tabs inside of the Service Dashboard. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/"
+  },"42": {
+    "doc": "Housing Dashboard",
+    "title": "Table of contents",
+    "content": ". | Scope | Housing Details . | Scope | User / Business Processes | Technical Details . | Data Model | Code | Data Model | . | Resources | . | Itinerary Details . | Scope | User Details | Technical Details | Resources | . | Stay Details . | Scope | User Details | Technical Details | Resources | . | Bid Details . | Scope | User Details | Technical Details | Resources | . | Contracting Details . | Scope | User Details | Technical Details | Resources | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#table-of-contents",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#table-of-contents"
+  },"43": {
+    "doc": "Housing Dashboard",
+    "title": "Scope",
+    "content": "This user guide has individual sections for each major tab of the internal Dashboards. It should cover the following in each separate screen at a minimum: . | Business Processes | Expected Workflows | Any black box magic the code does ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#scope",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#scope"
+  },"44": {
+    "doc": "Housing Dashboard",
+    "title": "Housing Details",
+    "content": ". | . Scope . Covers the Housing Details tab and the fields / business logic contained within it. Also gives high level detail on the functionality behind buttons on this tab but does not describe preferred room types as a whole in depth or concessions. User / Business Processes . The step after Production creation and going further down the workflow would be the “Sales Housing” represented by the data in the “Housing Details” tab. The first Housing in the chain of the children records of production records, it holds values for the items listed in the table below and also defaults for the stays that originate from there. (Clay needs more detail). The system is setup to create this Sales Housing record the first time a Production is visited in the Dashboard via the search in the top left. The following business processes and custom functionality live on this tab: . | Preferred Room Types stored as default for Production | Production Journals can be maintained | Preferences for the Stay as Bids are entered per Stay | Concessions are stored as Stay level preferences | Contracting Requirements are loaded based on Office Location | Billing Options and Payment Information stored on the Stay | Internal notes and Deadline Trace Date Management | . Technical Details . The Dashboard has specific events that kick off certain decisions and custom code exists for that to work. Here are some of the business logics inside of the Housing Details tab: . | Page load functions: . | Contracting Requirements that load | Biling options and Payment options that specifically load | Concessions that are specifically defaulted based on PRoduction settings | Automation of the record with “Sales Housing” record type being created (see data model below) | . | . Data Model . The inputs on the page are all derived from the “Housing__c” record attached to the “Opportunity” (Production) record. The record type used is “Sales Housing” on the “Housing__c” object . | Name | Object / Field API Name | Details | . | Hotel Class | Housing__c.Hotel_Class__c | Picklist field. | . | Star Preference | Housing__c.Star_Preference__c | Picklist field. | . | Distance To Venue | Housing__c.Distance_To_Venue__c | Picklist field. | . | Brand Preference | Housing__c.Brand_Preference__c | Picklist field. | . | Concessions | Housing__c.Concessions__r | Picklist field. | . | Contracting Requirements | Housing__c.Contracting_Requirememts__c | Picklist field. | . | Payment Information | Housing__c.Payment_Information__c | Picklist field. | . | Billing Options | Housing__c.Billing_Options__c | Picklist field. | . | Budget | Housing__c.Budget__c | Picklist field. | . | Internal Notes | Housing__c.Internal_Notes__c | Picklist field. | . | Deadline Trace Date | Housing__c.Deadline_Trace_Date__c | Picklist field. | . Code . Data Model . Resources . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#housing-details",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#housing-details"
+  },"45": {
+    "doc": "Housing Dashboard",
+    "title": "Itinerary Details",
+    "content": "Scope . User Details . Technical Details . Resources . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#itinerary-details",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#itinerary-details"
+  },"46": {
+    "doc": "Housing Dashboard",
+    "title": "Stay Details",
+    "content": "Scope . User Details . Technical Details . Resources . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#stay-details",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#stay-details"
+  },"47": {
+    "doc": "Housing Dashboard",
+    "title": "Bid Details",
+    "content": "Scope . User Details . Technical Details . Resources . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#bid-details",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#bid-details"
+  },"48": {
+    "doc": "Housing Dashboard",
+    "title": "Contracting Details",
+    "content": "Scope . User Details . Technical Details . Resources . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/#contracting-details",
+    "relUrl": "/docs/userguide/dashboards/housingdashboard/#contracting-details"
+  },"49": {
+    "doc": "Home",
+    "title": "Salesforce Wiki",
+    "content": "The Salesforce Wiki contains references for the Salesforce system to support users and technology teams. User Guide System Status  Submit Request . ",
+    "url": "http://localhost:4000/sf_pages_template/#salesforce-wiki",
+    "relUrl": "/#salesforce-wiki"
+  },"50": {
+    "doc": "Home",
+    "title": "Getting started",
+    "content": "The wiki uses Github and their product “Github Pages” to use existing “Jekyll” templates to create a site. There is a theme called “Just the Docs” that is set to be used, and is managed with the code files listed in the repository. For simple editing and adding you can do that directly on Github.com and a couple button clicks. The usual Github/Git benefits of version control for contributors is not needed if there aren’t multiple people contributing and overwriting eachother, so we use Github basically as a webhost in this case, with the option to be extended out to a version controlled Project for a team if necessary. Contributing . The Salesforce Wiki uses markdown as a syntax for the documentation pages, which is descirbed in detail here: . Files would need to get into the repository directly from Github.com or through an established connection in VSCode. Quick start: Use Github.com UI to Add Entry . | Navigate to the repository URL and into the “docs” folder. | If needed request access to be a contributor, otherwise just be logged in with your current Github username. | . Adding a file . | Files can be created or edited directly in the Github UI, and the changes saved and committed to the KB. | Adding a new file will require giving it a name and contents, while using “Markdown” language to support formatting. Here is a template that can be used: . | . --- layout: default title: Template for Docs nav_order: 1000 --- # Bold Header - list - of - things Change the nav order to fit where you want it in the navigation menu (1 top, 10000 bottom) sorted by number. | After adding details, Commit your changes via the buttons at the bottom. | . | Done! Your file will be live on the site after 1 minute, after the build script on github runs and adds your page. If it doesn’t add in 10 minutes, check email for errors. | . Updating a file . | Upating is almost the same as the above adding steps, with the exception of navigating to the file in the repository and hitting the “Edit” button. After that all the same steps still apply and you can commit your changes when complete. | Edit button: . | After adding details, Commit your changes via the buttons at the bottom. | Done! Your file will be live on the site after 1 minute, after the build script on github runs and adds your page. If it doesn’t add in 10 minutes, check email for errors. | . VSCode Setup for Wiki . More advanced setups can utilize a VSCode or any IDE setup and commit changes via a text editor, but that is overkill for a very small setup and will be left out. References . | setting up wiki editing in vscode details | markdown reference | . Video for updating and adding: . ",
+    "url": "http://localhost:4000/sf_pages_template/#getting-started",
+    "relUrl": "/#getting-started"
+  },"51": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/",
+    "relUrl": "/"
+  },"52": {
+    "doc": "Landing Pages",
+    "title": "Housing Dashboard",
+    "content": "The user guide is broken down into the functional areas of the dashboards, broken down by service and then by tabs inside of the Service Dashboard. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/landingpages/#housing-dashboard",
+    "relUrl": "/docs/userguide/community/landingpages/#housing-dashboard"
+  },"53": {
+    "doc": "Landing Pages",
+    "title": "Table of contents",
+    "content": ". | Scope . | Production - Details | Production Associations | Housing Dashboard - Details | Housing Dashboard - Details | Housing Dashboard - Details | Housing Dashboard - Details | Housing Dashboard - Details | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/landingpages/#table-of-contents",
+    "relUrl": "/docs/userguide/community/landingpages/#table-of-contents"
+  },"54": {
+    "doc": "Landing Pages",
+    "title": "Scope",
+    "content": "Production - Details . Detail Screen . Production Associations . Detail Screen . Housing Dashboard - Details . Housing Dashboard - Details . Housing Dashboard - Details . Housing Dashboard - Details . Housing Dashboard - Details . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/landingpages/#scope",
+    "relUrl": "/docs/userguide/community/landingpages/#scope"
+  },"55": {
+    "doc": "Landing Pages",
+    "title": "Landing Pages",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/landingpages/",
+    "relUrl": "/docs/userguide/community/landingpages/"
+  },"56": {
+    "doc": "System Landscape",
+    "title": "Landscape Diagram Details",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/#landscape-diagram-details",
+    "relUrl": "/docs/technicaldiagrams/landscapediagram/#landscape-diagram-details"
+  },"57": {
+    "doc": "System Landscape",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details . | Connection Breakdown . | Salesforce Native | Non Salesforce Native | . | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/#table-of-contents",
+    "relUrl": "/docs/technicaldiagrams/landscapediagram/#table-of-contents"
+  },"58": {
+    "doc": "System Landscape",
+    "title": "Scope",
+    "content": "This diagram should cover all system connections at a high level without getting into the technical details. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/#scope",
+    "relUrl": "/docs/technicaldiagrams/landscapediagram/#scope"
+  },"59": {
+    "doc": "System Landscape",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/#diagram",
+    "relUrl": "/docs/technicaldiagrams/landscapediagram/#diagram"
+  },"60": {
+    "doc": "System Landscape",
+    "title": "Details",
+    "content": "Connection Breakdown . The diagram above shows a legend where you can identify if something is out of the box Salesforce “native” and from Salesforce, or a third party app or integration. Salesforce Native . | Functional Area | Purpose | Users | . | Community | Used to manage bids on a national level and allows Account related data to be shared with login authentication | External Hotel National Rep | . | Landing Pages | Force.com Sites hosted on the platform for Vendor Bid Submission and Vendor Closeout Reporting | External Hotel Vendor Rep | . | Conga Composer | Used to manage templated PDF creation for Forms | Coordinator and Hotel Rep/Client | . | Conga Sign | Used to manage Signature forms such as Hotel Contract, Rate Agreement, etc | Coordinator and Hotel Rep/Client | . | DB Sync | Used to manage invoicing and sending Revenue details to Quickbooks. Bids and Revenue records are Sent to Quickbooks via Sync to QB flag | System/Accounting | . Non Salesforce Native . | Functional Area | Purpose | Users | . | Pivotal Tracker | Used to manage bids on a national level and allows Account related data to be shared with login authentication | External National Rep | . | Google Maps | Used to get distances between locations based on vendors and venues in the system | System | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/#details",
+    "relUrl": "/docs/technicaldiagrams/landscapediagram/#details"
+  },"61": {
+    "doc": "System Landscape",
+    "title": "System Landscape",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/",
+    "relUrl": "/docs/technicaldiagrams/landscapediagram/"
+  },"62": {
+    "doc": "Misc",
+    "title": "Miscellaneous",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/misc/#miscellaneous",
+    "relUrl": "/docs/userguide/misc/misc/#miscellaneous"
+  },"63": {
+    "doc": "Misc",
+    "title": "Misc",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/misc/",
+    "relUrl": "/docs/userguide/misc/misc/"
+  },"64": {
+    "doc": "NAV Tables Documentation",
+    "title": "Nav Tables Documentation",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/navtables/#nav-tables-documentation",
+    "relUrl": "/docs/technicaldocumentation/navtables/#nav-tables-documentation"
+  },"65": {
+    "doc": "NAV Tables Documentation",
+    "title": "Scope",
+    "content": "Below are some details about the NAV data and what the approach was and how it is documented. The scope of Accounts and Contacts, along with Bids/Productions/PA should be in the document. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/navtables/#scope",
+    "relUrl": "/docs/technicaldocumentation/navtables/#scope"
+  },"66": {
+    "doc": "NAV Tables Documentation",
+    "title": "Details",
+    "content": ". | SQL .bak file provided by Rakesh (NAV .net developer) as a way to get data from NAV into SF | Tables in backup file are detailed in first tab in sheet | Data Model is very different and there are multiple tables in NAV for both contacts and accounts | “EntityType” is synonymous with RecordTypeId for the most part when looking at types of NAV contacts/Accounts | “Landing Zone” objects in the Preprod org are flattened objects to accept all fields from all types of NAV tables in order to then do logic on the data from 1 row in the Landing zone object (Batch query rows and then with Landing Zone data query - accounts and contacts and act acfordingly). | Logic in PersonAccountAnalyzerBatch that was created to convert business contacts to person accounts was going to try and be used to assist in the searching of matching contacts | Fields were not consistent across NAV tables so the staggered layout of the documentation table columns indicates each field and a common field across columns in a row means that both tables have the field | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/navtables/#details",
+    "relUrl": "/docs/technicaldocumentation/navtables/#details"
+  },"67": {
+    "doc": "NAV Tables Documentation",
+    "title": "References",
+    "content": ". | https://docs.google.com/document/d/1PRolH45ja-zjJhRRk2OEdMKN7oznQDXmd3D9d8gkZe8/edit# | https://docs.google.com/spreadsheets/d/1XpkrCVYczLeDc9EMxltqdLQ692E73XUefsNYNItLUCk/edit | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/navtables/#references",
+    "relUrl": "/docs/technicaldocumentation/navtables/#references"
+  },"68": {
+    "doc": "NAV Tables Documentation",
+    "title": "NAV Tables Documentation",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/navtables/",
+    "relUrl": "/docs/technicaldocumentation/navtables/"
+  },"69": {
+    "doc": "Development Org Model",
+    "title": "Org Model for Deployments",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/#org-model-for-deployments",
+    "relUrl": "/docs/technicaldiagrams/orgmodel/#org-model-for-deployments"
+  },"70": {
+    "doc": "Development Org Model",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details . | Sandbox/Org Breakdown | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/#table-of-contents",
+    "relUrl": "/docs/technicaldiagrams/orgmodel/#table-of-contents"
+  },"71": {
+    "doc": "Development Org Model",
+    "title": "Scope",
+    "content": "This diagram should cover all system connections at a high level without getting into the technical details. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/#scope",
+    "relUrl": "/docs/technicaldiagrams/orgmodel/#scope"
+  },"72": {
+    "doc": "Development Org Model",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/#diagram",
+    "relUrl": "/docs/technicaldiagrams/orgmodel/#diagram"
+  },"73": {
+    "doc": "Development Org Model",
+    "title": "Details",
+    "content": "Sandbox/Org Breakdown . The diagram above shows orgs of a few different types which are listed in the following table . | Sandbox | Purpose | Type | . | rrdev | QA testing org where features are tested | DEVELOPER_PRO | . | preprod | UAT testing org where we perform UAT in addition to staging for Production deployments | Partial | . | Hotfix Sandbox | A sandbox created at the time of a bug being reported, direct path to Production. Does not follow the same rrdev preprod path | Partial | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/#details",
+    "relUrl": "/docs/technicaldiagrams/orgmodel/#details"
+  },"74": {
+    "doc": "Development Org Model",
+    "title": "Development Org Model",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/",
+    "relUrl": "/docs/technicaldiagrams/orgmodel/"
+  },"75": {
+    "doc": "PT - Overview",
+    "title": "Pivotal Trackerr",
+    "content": ". ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#pivotal-trackerr",
+    "relUrl": "/docs/projectmanagement/overview/#pivotal-trackerr"
+  },"76": {
+    "doc": "PT - Overview",
+    "title": "What is Pivotal Tracker?",
+    "content": "Pivotal Tracker is a straightforward project-planning tool that helps software development teams form realistic expectations about when work might be completed based on the team’s ongoing performance. Tracker visualizes your projects in the form of stories (virtual cards) moving through your workflow, encouraging you to break down projects into manageable chunks and have important conversations about deliverables and scope. As your team estimates and prioritizes those stories, Tracker divides them into future iterations, learning from your team’s natural pace of work to accurately predict when you will complete future work. Tracker’s transparent team view of priorities means that everyone knows what needs to be done, what is being done, and when it will be completed. Tracker’s agile philosophy not only helps your team keep pace and plan work, but adjust and change course when the unexpected happens, so your team can deliver earlier and more consistently. Pivotal Tracker encourages a practical agile software development process :white_check_mark:, as pioneered by VMware Pivotal Labs. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#what-is-pivotal-tracker",
+    "relUrl": "/docs/projectmanagement/overview/#what-is-pivotal-tracker"
+  },"77": {
+    "doc": "PT - Overview",
+    "title": "Story Workflow Diagrams",
+    "content": ". | Stories can be Chores, Features, Or Bugs. | The flow is similar with the exception of chores don’t have an Accept/Reject stage prior to being Done. | This is because chores don’t follow the QA process which is the reason Accept/Reject would be used. | . | . &lt;img src=” . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#story-workflow-diagrams",
+    "relUrl": "/docs/projectmanagement/overview/#story-workflow-diagrams"
+  },"78": {
+    "doc": "PT - Overview",
+    "title": "Story Statuses",
+    "content": ". | Each status in the Tracker workflow has specific Owners and has specific actions at that step that make up the workflow. | The below diagram has information about each step and intended audience and actions. | &lt;img src=” | . | . Statuses Continued . Tracker stories may be in one of several states. Valid states for a story depend on the story type and on whether they are in a project with automatic or manual planning. The following diagram illustrates how Tracker’s workflow progresses as you click through the state buttons located on a story. | Unscheduled . | All stories in a project’s Icebox are in the unscheduled state. | They are waiting to be prioritized into the Backlog. | You’ll see a Start button on unscheduled stories. | Unscheduled stories are always shaded a light blue color. | . | Unstarted . | Stories in the Backlog and Current panels that have a Start button showing are in the unstarted state. | They’re prioritized, but no work is actively being done on them. | Unstarted stories are always shaded a light grey color. | . | Planned . | If your project settings specify to NOT plan the Current iteration automatically, you can drag any unscheduled or unstarted story into the Current iteration, regardless of project velocity. Once these unscheduled or unstarted stories are in the Current iteration of a manually planned project, they are in the planned state. The team intends to work on them in the Current iteration. They still appear as unstarted stories, with a Start button. Planned stories are always shaded a light grey color. | . | Started . | Once you click the Start button for any unscheduled or unstarted story, it will move to the started state. You’ll see a Finish button in all started stories. When you click the Start button, you will be automatically assigned as a story owner. Unstarted stories are always shaded a light yellow color. | . | Finished . | Each team has their own criteria for considering a story “finished”. Tracker was designed with the idea that story owners will click the Finish button once they are satisfied that all the necessary development tasks are completed, which may include all testing tasks, and all the code is committed to the source code control system. Your team may have additional criteria, such as completing a code review. You can set up a post-commit hook in your Source Control Management (SCM) system to automatically change the story to the finished state. Finished stories have a Deliver button. Finished stories are always shaded a light yellow color.&lt;/p&gt; | . | Delivered . | Tracker’s delivered state is intended to denote that the code for the story has been deployed to an environment where it can be acceptance tested. Each team has their own process for this. Typically, there is a build and deploy pipeline which does continuous integration, runs automated regression tests, and does other activities (which may be automated or manual) to check whether the code is ready for testing. You can set up a post-commit hook in your Source Control Management (SCM) system to automatically change the story to delivered state. Delivered stories have two buttons: Accept and Reject. Delivered stories are always shaded a light yellow color. | . | Rejected . | When you discover an issue with a delivered story and need to do more work on it, you can click the Reject button to send it back to the queue of work in the Current iteration. When you click the reject button without first expanding a story, you’ll get a popup window where you can add a comment describing what additional work is needed. Rejected stories have a Restart button. Clicking the restart button puts the story into the started state. Rejected stories are always shaded a light yellow color. | . | Accepted . | Each team has their own definition of done with criteria for accepting a story. It may involve having multiple people such as testers, designers, and product owners agreeing that the story is ready to accept. Tracker is designed with the assumption that clicking the Accept button means the story is ready to deploy to production. However, more steps are usually needed in the team’s deploy pipeline before the story’s code is actually released to production. You can use release type stories to denote when a group of stories has been deployed to production by clicking the Finish button on the release story after the deploy occurs.&lt;/p&gt; | . | . Accepted stories turn green and move to the top of the Current iteration. You can click Hide accepted stories at the top of the panel if you’d rather not see them. When a new iteration begins, the accepted stories are moved to the Done panel. Stories in other states in the Current iteration will remain.&lt;/p&gt; . For more examples on how states contribute to the workflow, please see Workflow overview on the following page.&lt;/p&gt; . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#story-statuses",
+    "relUrl": "/docs/projectmanagement/overview/#story-statuses"
+  },"79": {
+    "doc": "PT - Overview",
+    "title": "A story in the life",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#a-story-in-the-life",
+    "relUrl": "/docs/projectmanagement/overview/#a-story-in-the-life"
+  },"80": {
+    "doc": "PT - Overview",
+    "title": "Here’s the life cycle of a typical Example Tracker story (non Road Rebel):",
+    "content": ". | The Product Owner (PO) prioritizes a story in the Backlog. Then puts a “Design” review on it so the story will be queued up in the design team’s “Design” reviews search results. | A label is added to a story and then appears in a search panel’s results when filtering for that label. | A designer adds the initial mock-ups to the story and sets their Design review to “Pass”. | Design Reviews passed | Design Reviews passed | . | The PO and designer meet with a tester and a programmer for a “three amigos”-style discovery workshop , two days in advance of an iteration planning meeting (IPM). They discuss this story, using example mapping to elicit examples of desired behavior, specify rules for the story, and document outstanding questions. Documenting story rules, examples of desired behavior, and outstanding questions . | The whole team gets together two days later for the IPM. They discuss the rules and examples for the story. The PO has the answer to the outstanding question. They talk about the dependency on the server side story, and various options for implementing it. They estimate the story at 3 points. However, as noted in the description with the story link, the story depends on a server side story that is not yet done, so the PO adds a “blocker” to the story. A ‘blocked’ blocker showing in a story preview . | The blocking server-side story is accepted, automatically resolving the story’s blocker. When the story is the next unstarted story in the Current panel, a developer pair starts it, which automatically assigns them as story owners. They test drive the code at the unit level, as well as with automated acceptance tests based on the story rules and examples. They explore different searches, such as using regular expressions, and consult with the tester and PO as new questions come up. They click the Finish button, but feel the story needs more exploratory testing, and that they should double-check design implementation, so they add the “Test (QA)” and “Design” Reviews to it. | . Reviews on stories . | When the CI build for the story’s code passes, the artifacts are automatically deployed to a test environment. The tester verifies this, and clicks the Deliver button. The tester pairs with the designer to verify the look and feel of the search. The designer is satisfied with the results and sets the “Design” review to “Pass”. After more exploratory testing, the tester identifies two minor issues that are outside the scope of the story. They add new stories for these in the “shopping” epic. Satisfied that the story provides the right value for users, the tester sets the “Test (QA)” review to “Pass”, and adds a “Product Owner (PO)” review so that the PO notices the story is ready for them to do final acceptance. Reviews on stories . | Note: The My Work panel will show all stories in Delivered status (i.e., ready for to be accepted or rejected) for which you are the requester, so you can easily see which are ready to accept. | The PO notices a cosmetic issue, but it’s not something that has to be fixed before the beta release. They create another story in the “shopping” epic to address it later, rather than reject the story. They accept the story, which moves up into the green accepted stories at the top of the Current panel. | . How is your team doing? . | All stories are not created equal. Straightforward ones may be accepted within hours of being started. With more complicated ones, we may find that some rules were missed or the feature can’t quite be implemented as designed after all. Clicking that Reject button may sound harsh, but it just means there’s a bit more to be done, and iterating a few times is sometimes necessary. When rejecting a story, add comments with details about why it was rejected, including screenshots and any other useful information. | Keep tabs on story cycle time and rejection rate by checking the Cycle time report in the Analytics section of Tracker. Your team can use this information to identify problem areas and try experiments to shorten cycle time and reduce rejection rate. | Watch the Cumulative Flow chart to see story states by day during the iteration. This helps identify problem areas such as falling into a “mini waterfall” scenario, with no stories being completed until the end of the iteration. | Need more control over planning the current iteration? Tracker provides a way to let you manually plan the current iteration. Check out the Automatic vs. Manual Planning section in Using Projects. | . Tips for handling bugs . | As noted in the Getting Started article on Tracker’s workflow, bug stories follow the same workflow as feature stories. However, bugs sometimes follow different paths. You may want to preserve the information in a bug story, even if the team isn’t going to do any work specifically on that story. | Your team may decide not to fix a particular bug. When this happens, teams typically mark the bug story accepted, and tag it with an appropriate label, such as “wont fix.” It’s always helpful to add a comment describing the reason. | An issue reported as a bug may turn out to be a missing feature, or it could be expected behavior. You might prefer to change the story type from bug to feature. Or, you could tag it with a “not a bug” label and change the state to Accepted. | While fixing bugs as soon as possible is a good practice, sometimes a bug story may linger long enough that it is fixed by a different story. An option is to comment on what was tried then tag it with a “not reproducible” label and change the state to accepted. | . Tips for using Chores and Releases . | Chores are stories that are necessary but provide no direct, obvious value to the customer (e.g., “Update SSL Certs”). Because they don’t typically require extra validation when they’re finished, the states for chores are just unscheduled (when in the Icebox), unstarted, started, and accepted. | Releases are milestone markers that allow your team to track progress toward concrete goals (e.g., stakeholder or investor demos, software launches, etc.). It’s possible to specify target dates for releases. All stories for a milestone or release should go above the marker for it. Releases are automatically placed in the started state upon being created or dragged in the Backlog, and also have the unscheduled (when in the Icebox) and accepted states. For more please see Organizing releases. | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#heres-the-life-cycle-of-a-typical-example-tracker-story-non-road-rebel",
+    "relUrl": "/docs/projectmanagement/overview/#heres-the-life-cycle-of-a-typical-example-tracker-story-non-road-rebel"
+  },"81": {
+    "doc": "PT - Overview",
+    "title": "Videos",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#videos",
+    "relUrl": "/docs/projectmanagement/overview/#videos"
+  },"82": {
+    "doc": "PT - Overview",
+    "title": "Video Demos",
+    "content": "If you have a few more minutes to spare, get to know Tracker better with these short videos. You can watch all of them here, or find them in the relevant topics as you go through the rest of the Getting Started guide. If you’ve time for a deeper dive, we’ve also provided a pre-recorded “Intro to Tracker” webinar that includes a 20 minute guided tour of Tracker, followed by some great Q&amp;A! . Getting Started (2:50) . This quick tour covers the basics, as well as Tracker's fundamental units of work: stories. Writing Stories (3:08) . Learn how to write stories, as well as all you need to know to start adding features, bugs, and chores to your project. Prioritizing and Estimating Complexity (1:46) . Understand how to prioritize your stories in Tracker and estimate their complexity, so you can start to see what can be completed when. Delivering Stories (1:45) . Follow the process of taking your stories in Tracker from start to delivered. Velocity and Story Acceptance (2:56) . Make sure your stories are ready for release and learn how Tracker sets your team's velocity. Intro to Tracker webinar (64:12) . One of our recent webinars, with a tour of Tracker and some great Q&amp;A! ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/#video-demos",
+    "relUrl": "/docs/projectmanagement/overview/#video-demos"
+  },"83": {
+    "doc": "PT - Overview",
+    "title": "PT - Overview",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/",
+    "relUrl": "/docs/projectmanagement/overview/"
+  },"84": {
+    "doc": "Project Management",
+    "title": "Project Management",
+    "content": "Technical Documentation for all of the backend system logic and some of the process flows and descriptions of the requirements for specific features. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement",
+    "relUrl": "/docs/projectmanagement"
+  },"85": {
+    "doc": "Quality Assurance",
+    "title": "Quality Assurance",
+    "content": "Details related to Quality Assurance and Quality Assurance for Voyajer on the Salesforce platform, including Tests and Test Plans and automated Unit Tests . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance",
+    "relUrl": "/docs/qualityassurance"
+  },"86": {
+    "doc": "Rate Agreement",
+    "title": "Rate Agreement",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/conga/rateagreement/",
+    "relUrl": "/docs/userguide/conga/rateagreement/"
+  },"87": {
+    "doc": "Report Component",
+    "title": "Report Component",
+    "content": "A component that allows for embedding of reports on Account (currently only Account) and the specification of the report data to display. Also has a second field for filtering if the Account Id you need to use is on a separate object. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/reportcomponent/",
+    "relUrl": "/docs/userguide/misc/reportcomponent/"
+  },"88": {
+    "doc": "Report Component",
+    "title": "Scope",
+    "content": "The reportComponent and how to use on Lightning Pages. Includes steps to setup and description of what it expects for configuration inputs. Does not cover Lightning Page Editor assignments and Activation, just component configuration. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/reportcomponent/#scope",
+    "relUrl": "/docs/userguide/misc/reportcomponent/#scope"
+  },"89": {
+    "doc": "Report Component",
+    "title": "User Details",
+    "content": "Used when you want to show an embedded report specific to an Account on an Account lightning page. It requires creation of the report before hand so that it can be configured inside the Lightning Page Editor. | Create report to be displayed on a per Account basis . | Any report can be used as long as it contains filter for Account Id | If the Account.Id field is not a filter (top level Account filtering in Report), filter field must be specified in Lightning Page Editor . | Top Level Account Filter means in the List of Objects in the Field Selections object it is the “Id” field from the “Account” object fields | | | . | . | Drag reportComponent onto Lightning Record Page and click once to get configuration options: - . | Save Lightning Record Page and confirm expected Report shows with filtering | A Summary Report will show the details in groupings . | Note the grey row headers listing the Bid Name above | . | A Tabular Report will show the details without grouping rows. | White rows with no header | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/reportcomponent/#user-details",
+    "relUrl": "/docs/userguide/misc/reportcomponent/#user-details"
+  },"90": {
+    "doc": "Report Component",
+    "title": "Technical Details",
+    "content": ". | Aura Component . | reportComponent | reportSearchComponent | . | Apex Classes . | AnalyticsUtils | LightningReportController | LightningReportControllerTest | . | Tests . | LightningReportControllerTest . | Ex test | Ex test ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/reportcomponent/#technical-details",
+    "relUrl": "/docs/userguide/misc/reportcomponent/#technical-details"
+  },"91": {
+    "doc": "Report Component",
+    "title": "References",
+    "content": "| . | . | Report Types | Summary Report | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/misc/reportcomponent/#references",
+    "relUrl": "/docs/userguide/misc/reportcomponent/#references"
+  },"92": {
+    "doc": "RRSign",
+    "title": "RRSign",
+    "content": "Details about the RRSign app. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/rrsign/",
+    "relUrl": "/docs/technicaldocumentation/rrsign/"
+  },"93": {
+    "doc": "RRSign",
+    "title": "Table of contents",
+    "content": ". | RRSign . | Scope . | Sequence of Events/Components | . | References | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/rrsign/#table-of-contents",
+    "relUrl": "/docs/technicaldocumentation/rrsign/#table-of-contents"
+  },"94": {
+    "doc": "RRSign",
+    "title": "Scope",
+    "content": "Any details relating to the functionality of the RRSign app. Sequence of Events/Components . All Contracts / Forms follow the same paradigm for options for Buttons from the Modal. These different paths use events and some back and forth to figure out what components to load and the decisions are below: . Format: [Button (theNextDestinationString values)] . Send Email (SEND_EMAIL): . | Will email attachment with PDF based on “Form Type” (c__formName) dashboardcontroller properties (form_title, rate_agreementtype, ) | sendEmail methods are called with the appropriate attachments and recipients after handleRenderLighting() | . Preview (PREVIEW): . | PreviewAndTagApp aura - Loads rrsign_Wv_instance with the preview context and buttons hidden (preview/tag buttons and signer portal buttons , which also use rrsign_Wv_Instance) | . Send Signer (SEND_SIGNER): . | Housing Dashboard - DashboardVFP start process | DashboardController Apex Class - Bid Search and progression to Bid detail page | Housing Contract - DashboardVFP, DashboardHousingScript JS static resource is called by button and action functions handle staticresource&gt;VF&gt;apex progression. | config_apex.js static resource events communicate with LWC to get document details and save/process logic | DashboardHousingScript - rrsignEntryPoint method calls actionfunction after modal rendering | Dashboard Controller - has original object of data sent to it regarding the transaction to maintain params string ‘c__formName,c__bcdid,c__bidid,c__documentIds’ | DashboardController - saveRateAgreement called to start process of sending by actionFunction | DashboardVFP - Renders the proper modal (assumes theNextDestinationString = ‘DOCUMENT_GENERATION’) – Render Booleans support outputpanel re-rendering to show div containing relevant modal. | DashboardVFP - Gets doc generation complete event from component (LWC) (docgenevent) – Updates param string and redirects to theNextDestinationString | DashboardVFP - docgenevent handled by the page (theNextDestination is where it forwards to) | Preview or Send Signer? . | Send Signer Paths- . | Preview and Tag (PREVIEW_TAG) - Complete button saves document with XFDF to be signed | Send Now - Sends documents . | both of these should update “Pending Signature = true” and SENT | . | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/rrsign/#scope",
+    "relUrl": "/docs/technicaldocumentation/rrsign/#scope"
+  },"95": {
+    "doc": "RRSign",
+    "title": "References",
+    "content": ". | https://code.visualstudio.com/docs/editor/github | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/rrsign/#references",
+    "relUrl": "/docs/technicaldocumentation/rrsign/#references"
+  },"96": {
+    "doc": "Sandboxes",
+    "title": "Sandboxes",
+    "content": "Details related to DevOps and developing Voyajer on the Salesforce platform. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sandboxes/",
+    "relUrl": "/docs/development/sandboxes/"
+  },"97": {
+    "doc": "Sandboxes",
+    "title": "Sandbox List",
+    "content": "| Sandbox | Purpose | Type | . | rrdev | QA testing org where features are tested | DEVELOPER_PRO | . | preprod | UAT testing org where we perform UAT in addition to staging for Production deployments | Partial | . | Hotfix Sandbox | A sandbox created at the time of a bug being reported, direct path to Production. Does not follow the same rrdev preprod path | Partial | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sandboxes/#sandbox-list",
+    "relUrl": "/docs/development/sandboxes/#sandbox-list"
+  },"98": {
+    "doc": "Sandboxes",
+    "title": "Sandbox Data",
+    "content": "Below is a script that can be run to create data in a sandbox. Just run the task from VSCode to create the data in whatever your default Org is set to in VSCode and it will update you from there. This should contain: . | An Account (Vendor) | A Contact (customer) | A Production | A Production Association for Primary Contract Coordinator and Primary Housing Coordinator | A Stay | Preferred Room Types | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sandboxes/#sandbox-data",
+    "relUrl": "/docs/development/sandboxes/#sandbox-data"
+  },"99": {
+    "doc": "Wiki - Set Up VSCode",
+    "title": "Setup VS Code",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/setupvscode/#setup-vs-code",
+    "relUrl": "/docs/technicaldocumentation/setupvscode/#setup-vs-code"
+  },"100": {
+    "doc": "Wiki - Set Up VSCode",
+    "title": "Scope",
+    "content": "Covers the installation of VSCode specifically for contributing to the wiki, not setting up for Salesforce Development. Should cover installation and how to submit an edit or new entry to the Wiki as an alternative to making edits directly at the Github URL. | Signup for Github | Download VSCode | Install and Clone Repository (contains documentation) | Submit documentation change for Publishing | . *Note: This is the alternative to doing edits directly to the files on Github.com and gives flexibility to view previews and many other things. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/setupvscode/#scope",
+    "relUrl": "/docs/technicaldocumentation/setupvscode/#scope"
+  },"101": {
+    "doc": "Wiki - Set Up VSCode",
+    "title": "Details",
+    "content": "Signup for Github . You will need a github account to connect in VSCode, since the Wiki is hosted on Github. It will be a one time creation step of the account and access granted to your user, and after that the login would be for any subsequent updates that require an edit to the files on the Server. Download VS Code . VSCode is a very popular IDE (Code Editor) and the website will direct you to the proper download for Windows or Mac. Link here: Download VS Code . Install and Clone Repository . Once downloaded the prompts and all defaults can be used on VSCode. You should get to a point where you are at the entry point in VSCode where it is asking you for a workspace or folder to start to work out of. At this point you are as far as you need to be and it’s installed. Now we can “Clone” the repository (which is ultimately just copying the files as-is now, to a folder that has the capabilities of watching for changes in the files in that folder (“Git” on the filesystem)). Luckily they make this very easy and it’s a copy and paste of a URL into a button. The link is on Github.com on the Repository homepage. | Navigate to the repo https://github.com/sfdcboss/voyajerwiki. | Click the “Code” button and copy the HTTPS URL for the Repository . | . | Take this URL and plug it into VSCode under the “Clone Repository” option. It will copy the files and enable the folder it creates to talk to Github.com later for you to post changes and new files. | . | Allow it to create the folder and finish and you are complete . | Note: You will be prompted to “Open” the folder it created that will take you this folder to work in. | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/setupvscode/#details",
+    "relUrl": "/docs/technicaldocumentation/setupvscode/#details"
+  },"102": {
+    "doc": "Wiki - Set Up VSCode",
+    "title": "References",
+    "content": ". | https://code.visualstudio.com/docs/editor/github | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/setupvscode/#references",
+    "relUrl": "/docs/technicaldocumentation/setupvscode/#references"
+  },"103": {
+    "doc": "Wiki - Set Up VSCode",
+    "title": "Wiki - Set Up VSCode",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation/setupvscode/",
+    "relUrl": "/docs/technicaldocumentation/setupvscode/"
+  },"104": {
+    "doc": "SFDX - Authorize an Org",
+    "title": "SFDX - Authorize an Org",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sfdxauthorizeorg/",
+    "relUrl": "/docs/development/sfdxauthorizeorg/"
+  },"105": {
+    "doc": "SFDX - Authorize an Org",
+    "title": "Scope",
+    "content": "Authorizing an Org from VSCode so that you have SFDX connected to it. The VSCode -&gt; SF Extensions setup is completed and now we need to add a Sandbox. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sfdxauthorizeorg/#scope",
+    "relUrl": "/docs/development/sfdxauthorizeorg/#scope"
+  },"106": {
+    "doc": "SFDX - Authorize an Org",
+    "title": "Details",
+    "content": ". | CMD SHIFT P for Command Pallette | SFDX: Authorize an Org command | Select Sandbox (means https://test.salesforce.com will be where you get directed to for login) | After successful login you should have it set as your default Org listed in VScode and the status window for Authorization should have updated to Complete | SFDX stores an access token in the background for you to now use the token to communicate with the sandbox for anything you are doing in VSCode | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sfdxauthorizeorg/#details",
+    "relUrl": "/docs/development/sfdxauthorizeorg/#details"
+  },"107": {
+    "doc": "SFDX - Authorize an Org",
+    "title": "Reference",
+    "content": ". | SFDX Commands “org” | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sfdxauthorizeorg/#reference",
+    "relUrl": "/docs/development/sfdxauthorizeorg/#reference"
+  },"108": {
+    "doc": "Source Control",
+    "title": "Source Control",
+    "content": "Details related to DevOps and developing Voyajer on the Salesforce platform. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sourcecontrol/",
+    "relUrl": "/docs/development/sourcecontrol/"
+  },"109": {
+    "doc": "Source Control",
+    "title": "Repository Info",
+    "content": "The link to the repository is here: sf-roadrebel on Github.com. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sourcecontrol/#repository-info",
+    "relUrl": "/docs/development/sourcecontrol/#repository-info"
+  },"110": {
+    "doc": "Source Control",
+    "title": "Repository Access",
+    "content": "The repository requires a Github.com account, and that account will be granted access. The user must be added in the Settings in the project by a repo owner (Clay) and given permission, otherwise it will return a 404 error like the repository does not exist. The same Github account for the Repository and Wiki are under the umbrella of one “Organization” in Github.com . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sourcecontrol/#repository-access",
+    "relUrl": "/docs/development/sourcecontrol/#repository-access"
+  },"111": {
+    "doc": "Source Control",
+    "title": "Recent Commits",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/development/sourcecontrol/#recent-commits",
+    "relUrl": "/docs/development/sourcecontrol/#recent-commits"
+  },"112": {
+    "doc": "Process - Sprint Schedule",
+    "title": "Sprint Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/#sprint-schedule",
+    "relUrl": "/docs/projectmanagement/sprintschedule/#sprint-schedule"
+  },"113": {
+    "doc": "Process - Sprint Schedule",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/#table-of-contents",
+    "relUrl": "/docs/projectmanagement/sprintschedule/#table-of-contents"
+  },"114": {
+    "doc": "Process - Sprint Schedule",
+    "title": "Scope",
+    "content": "Documents day by day the expected events in an Agile 2 week sprint. Key ceremonies or days highlighted to mark importance and diligence required to complete tasks to adhere to the schedule. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/#scope",
+    "relUrl": "/docs/projectmanagement/sprintschedule/#scope"
+  },"115": {
+    "doc": "Process - Sprint Schedule",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/#diagram",
+    "relUrl": "/docs/projectmanagement/sprintschedule/#diagram"
+  },"116": {
+    "doc": "Process - Sprint Schedule",
+    "title": "Details",
+    "content": "| Sprint Event | Day of Week | Purpose | Attendees | . | Stand Up | Daily | What Yesterday? What Today? Any Blockers? | All | . | Sprint Planning | Monday | Agreed upon work from top of backlog moved into Current. All stories must be groomed prior to that (at least enough stories to fill up a week) | All | . | Backlog Refinement | Thursday | Work in the backlog is inspected to make sure all details needed are in the story. | PM / Lead Dev | . | Deployment to “QA” | Thursday - Week 1 | Work that has been accumulating should be released to QA. | Lead Dev | . | Deployment to “PreProd” | Thursday - Week 2 | Work that has been accepted would be deployed to the PreProd/UAT Org | Lead Dev | . | Retro | End of Sprint | Good, Bad and the Ugly | All | . | Cutoff for QA | Thursday - Week 1 | This is helpful to deploy in bunches rather than rapid fire all of them inddividually. Is flexible but the idea is there would be a process for deployment that would group what’s ready at the halfway and end of the sprint, and deploy accordingly. | All | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/#details",
+    "relUrl": "/docs/projectmanagement/sprintschedule/#details"
+  },"117": {
+    "doc": "Process - Sprint Schedule",
+    "title": "Process - Sprint Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/",
+    "relUrl": "/docs/projectmanagement/sprintschedule/"
+  },"118": {
+    "doc": "Process - Standup Meeting",
+    "title": "Standup Daily Meeting",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/standups/#standup-daily-meeting",
+    "relUrl": "/docs/projectmanagement/standups/#standup-daily-meeting"
+  },"119": {
+    "doc": "Process - Standup Meeting",
+    "title": "Scope",
+    "content": "Defintions of what is intended to be done in the standup and some ideas of how to get those conversations started and flowing. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/standups/#scope",
+    "relUrl": "/docs/projectmanagement/standups/#scope"
+  },"120": {
+    "doc": "Process - Standup Meeting",
+    "title": "Purpose",
+    "content": "Standups are supposed to be short, hence the name standup (too short to sit) and are to clear blockers as quickly as possible. The quicker we socialize a blocker and figure out a solution the better and it gives a chance also to catch up with the team. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/standups/#purpose",
+    "relUrl": "/docs/projectmanagement/standups/#purpose"
+  },"121": {
+    "doc": "Process - Standup Meeting",
+    "title": "References",
+    "content": "TBD . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/standups/#references",
+    "relUrl": "/docs/projectmanagement/standups/#references"
+  },"122": {
+    "doc": "Process - Standup Meeting",
+    "title": "Process - Standup Meeting",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/standups/",
+    "relUrl": "/docs/projectmanagement/standups/"
+  },"123": {
+    "doc": "Process - Story Creation",
+    "title": "Story Creation",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/#story-creation",
+    "relUrl": "/docs/projectmanagement/storycreation/#story-creation"
+  },"124": {
+    "doc": "Process - Story Creation",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/#table-of-contents",
+    "relUrl": "/docs/projectmanagement/storycreation/#table-of-contents"
+  },"125": {
+    "doc": "Process - Story Creation",
+    "title": "Scope",
+    "content": "The diagram displays the expected path that an idea would come to fruition from start to finish in regards to stories and requirements. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/#scope",
+    "relUrl": "/docs/projectmanagement/storycreation/#scope"
+  },"126": {
+    "doc": "Process - Story Creation",
+    "title": "Diagram",
+    "content": "TBD . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/#diagram",
+    "relUrl": "/docs/projectmanagement/storycreation/#diagram"
+  },"127": {
+    "doc": "Process - Story Creation",
+    "title": "Details",
+    "content": "The roles involved would be PM, Scrummaster, Dev, PO, BA . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/#details",
+    "relUrl": "/docs/projectmanagement/storycreation/#details"
+  },"128": {
+    "doc": "Process - Story Creation",
+    "title": "Process - Story Creation",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/",
+    "relUrl": "/docs/projectmanagement/storycreation/"
+  },"129": {
+    "doc": "Process - Story Delivery",
+    "title": "Story Delivery",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/#story-delivery",
+    "relUrl": "/docs/projectmanagement/storydelivery/#story-delivery"
+  },"130": {
+    "doc": "Process - Story Delivery",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/#table-of-contents",
+    "relUrl": "/docs/projectmanagement/storydelivery/#table-of-contents"
+  },"131": {
+    "doc": "Process - Story Delivery",
+    "title": "Scope",
+    "content": "The diagram displays what a Developer should do upon finishing a story, and the paths it would take through QA and UAT. The QA Review is used and a story is Delivered to the PreProd org where it is tested finally and accepted. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/#scope",
+    "relUrl": "/docs/projectmanagement/storydelivery/#scope"
+  },"132": {
+    "doc": "Process - Story Delivery",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/#diagram",
+    "relUrl": "/docs/projectmanagement/storydelivery/#diagram"
+  },"133": {
+    "doc": "Process - Story Delivery",
+    "title": "Details",
+    "content": "The process of updating statuses on stories and reviews on stories from dev completion to Acceptance. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/#details",
+    "relUrl": "/docs/projectmanagement/storydelivery/#details"
+  },"134": {
+    "doc": "Process - Story Delivery",
+    "title": "Process - Story Delivery",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/",
+    "relUrl": "/docs/projectmanagement/storydelivery/"
+  },"135": {
+    "doc": "Process - Story Tests Entry",
+    "title": "Story Delivery",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/#story-delivery",
+    "relUrl": "/docs/projectmanagement/storytestentry/#story-delivery"
+  },"136": {
+    "doc": "Process - Story Tests Entry",
+    "title": "Table of contents",
+    "content": ". | Scope | Diagram | Details | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/#table-of-contents",
+    "relUrl": "/docs/projectmanagement/storytestentry/#table-of-contents"
+  },"137": {
+    "doc": "Process - Story Tests Entry",
+    "title": "Scope",
+    "content": "The diagram should show from a project management perspective how tests should be called out for in each individual Pivotal Tracker Story. This does not cover the full QA Testing process, only the portion of story grooming that is a repository for ideas of where features may impact. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/#scope",
+    "relUrl": "/docs/projectmanagement/storytestentry/#scope"
+  },"138": {
+    "doc": "Process - Story Tests Entry",
+    "title": "Diagram",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/#diagram",
+    "relUrl": "/docs/projectmanagement/storytestentry/#diagram"
+  },"139": {
+    "doc": "Process - Story Tests Entry",
+    "title": "Details",
+    "content": "There is more information related to tests as a whole here in Quality Assurance. This particular process should be part of the sprint and the sprint meetings, with the owner being the QA. The tasks listed in the story though that would create test cases for the test plan is collaborative and PM should have input on if an area is important to test that could be related to another feature. | PM Entering story adds anything relevant as a “Task” in pivotal Tracker at the time of story creation | Lead Tech adds testing areas as part of “Design Review” | QA uses any ideas from PM and Lead Tech and ultimately creates a list of tasks that will update the Test Plan that exists in SF.com. | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/#details",
+    "relUrl": "/docs/projectmanagement/storytestentry/#details"
+  },"140": {
+    "doc": "Process - Story Tests Entry",
+    "title": "Process - Story Tests Entry",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/",
+    "relUrl": "/docs/projectmanagement/storytestentry/"
+  },"141": {
+    "doc": "Submit an Issue",
+    "title": "Submit an Issue",
+    "content": ". Subject Description ",
+    "url": "http://localhost:4000/sf_pages_template/docs/submitticket/",
+    "relUrl": "/docs/submitticket/"
+  },"142": {
+    "doc": "Technical Diagrams",
+    "title": "Technical Diagrams",
+    "content": "Technical Diagrams visualize processes and system interactions in Salesforce. They are broken down into Level 1 thru Level 4 diagrams (Level 1 being least detailed, Level 4 the highest). ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldiagrams",
+    "relUrl": "/docs/technicaldiagrams"
+  },"143": {
+    "doc": "Technical Documentation",
+    "title": "Technical Documentation",
+    "content": "Technical Documentation for all of the backend system logic and some of the process flows and descriptions of the requirements for specific features. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/technicaldocumentation",
+    "relUrl": "/docs/technicaldocumentation"
+  },"144": {
+    "doc": "Test Plan Info",
+    "title": "Test Plans",
+    "content": "Details related to DevOps and developing Voyajer on the Salesforce platform. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/testplans/#test-plans",
+    "relUrl": "/docs/qualityassurance/testplans/#test-plans"
+  },"145": {
+    "doc": "Test Plan Info",
+    "title": "Current Tests List",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/testplans/#current-tests-list",
+    "relUrl": "/docs/qualityassurance/testplans/#current-tests-list"
+  },"146": {
+    "doc": "Test Plan Info",
+    "title": "Test Results",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/testplans/#test-results",
+    "relUrl": "/docs/qualityassurance/testplans/#test-results"
+  },"147": {
+    "doc": "Test Plan Info",
+    "title": "Test Suggestions",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/testplans/#test-suggestions",
+    "relUrl": "/docs/qualityassurance/testplans/#test-suggestions"
+  },"148": {
+    "doc": "Test Plan Info",
+    "title": "Test Plan Info",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/qualityassurance/testplans/",
+    "relUrl": "/docs/qualityassurance/testplans/"
+  },"149": {
+    "doc": "Trace Dashboard",
+    "title": "Trace Dashboard",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/dashboards/tracedashboard/",
+    "relUrl": "/docs/userguide/dashboards/tracedashboard/"
+  },"150": {
+    "doc": "User Guide",
+    "title": "Voyajer User Guide",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide#voyajer-user-guide",
+    "relUrl": "/docs/userguide#voyajer-user-guide"
+  },"151": {
+    "doc": "User Guide",
+    "title": "User Guide",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide",
+    "relUrl": "/docs/userguide"
+  },"152": {
+    "doc": "Vendor",
+    "title": "Housing Dashboard",
+    "content": "The user guide is broken down into the functional areas of the dashboards, broken down by service and then by tabs inside of the Service Dashboard. ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/vendor/#housing-dashboard",
+    "relUrl": "/docs/userguide/community/vendor/#housing-dashboard"
+  },"153": {
+    "doc": "Vendor",
+    "title": "Table of contents",
+    "content": ". | Scope . | Production - Details | Production Associations | Housing Dashboard - Details | Housing Dashboard - Details | Housing Dashboard - Details | Housing Dashboard - Details | Housing Dashboard - Details | . | . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/vendor/#table-of-contents",
+    "relUrl": "/docs/userguide/community/vendor/#table-of-contents"
+  },"154": {
+    "doc": "Vendor",
+    "title": "Scope",
+    "content": "Production - Details . Detail Screen . Production Associations . Detail Screen . Housing Dashboard - Details . Housing Dashboard - Details . Housing Dashboard - Details . Housing Dashboard - Details . Housing Dashboard - Details . ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/vendor/#scope",
+    "relUrl": "/docs/userguide/community/vendor/#scope"
+  },"155": {
+    "doc": "Vendor",
+    "title": "Vendor",
+    "content": " ",
+    "url": "http://localhost:4000/sf_pages_template/docs/userguide/community/vendor/",
+    "relUrl": "/docs/userguide/community/vendor/"
+  }
+}

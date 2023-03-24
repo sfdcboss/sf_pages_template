@@ -1,0 +1,3 @@
+how on macoscli can i give access to for write /Library/Ruby/gems/2.6.0
+
+b'/\n\nOpen the Terminal application, type the following command and press Enter:\n\nsudo chmod -R a+w /Library/Ruby/gems/2.6.0/'

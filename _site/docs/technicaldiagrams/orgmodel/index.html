@@ -1,0 +1,274 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  
+
+  <link rel="shortcut icon" href="/sf_pages_template/favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="/sf_pages_template/assets/css/just-the-docs-default.css">
+
+  <link rel="stylesheet" href="/sf_pages_template/assets/css/style.css">
+
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2709176-10"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-2709176-10', { 'anonymize_ip': true });
+    </script>
+
+  
+
+  
+  <script type="text/javascript" src="/sf_pages_template/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Development Org Model | SF Wiki Template</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Development Org Model" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Jekyll theme for documentation" />
+<meta property="og:description" content="A Jekyll theme for documentation" />
+<link rel="canonical" href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/" />
+<meta property="og:url" content="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/" />
+<meta property="og:site_name" content="SF Wiki Template" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Development Org Model" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"A Jekyll theme for documentation","headline":"Development Org Model","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/sf_pages_template/assets/images/rrlogo.png"}},"url":"http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+</head>
+
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="svg-link" viewBox="0 0 24 24">
+      <title>Link</title>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+      </svg>
+    </symbol>
+    <symbol id="svg-search" viewBox="0 0 24 24">
+      <title>Search</title>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+        <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </symbol>
+    <symbol id="svg-menu" viewBox="0 0 24 24">
+      <title>Menu</title>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+        <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+      </svg>
+    </symbol>
+    <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+      <title>Expand</title>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </symbol>
+    <symbol id="svg-doc" viewBox="0 0 24 24">
+      <title>Document</title>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+        <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+      </svg>
+    </symbol>
+  </svg>
+
+  <div class="side-bar">
+    <div class="site-header">
+      <a href="http://localhost:4000/sf_pages_template/" class="site-title lh-tight">
+  <div class="site-logo"></div>
+
+</a>
+      <a href="#" id="menu-button" class="site-button">
+        <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+      </a>
+    </div>
+    <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      
+        <ul class="nav-list"><li class="nav-list-item"><a href="http://localhost:4000/sf_pages_template/" class="nav-list-link">Home</a></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/userguide" class="nav-list-link">User Guide</a><ul class="nav-list "><li class="nav-list-item "><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/userguide/conga/conga/" class="nav-list-link">Conga</a><ul class="nav-list"><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/conga/rateagreement/" class="nav-list-link">Rate Agreement</a>
+                  </li></ul></li><li class="nav-list-item "><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/userguide/community/community/" class="nav-list-link">Community</a><ul class="nav-list"><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/community/customer/" class="nav-list-link">Customer</a>
+                  </li><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/community/landingpages/" class="nav-list-link">Landing Pages</a>
+                  </li><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/community/vendor/" class="nav-list-link">Vendor</a>
+                  </li></ul></li><li class="nav-list-item "><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/userguide/dashboards/dashboards/" class="nav-list-link">Dashboards</a><ul class="nav-list"><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/dashboards/housingdashboard/" class="nav-list-link">Housing Dashboard</a>
+                  </li><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/dashboards/tracedashboard/" class="nav-list-link">Trace Dashboard</a>
+                  </li></ul></li><li class="nav-list-item "><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/userguide/misc/misc/" class="nav-list-link">Misc</a><ul class="nav-list"><li class="nav-list-item ">
+                    <a href="http://localhost:4000/sf_pages_template/docs/userguide/misc/reportcomponent/" class="nav-list-link">Report Component</a>
+                  </li></ul></li></ul></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/technicaldocumentation" class="nav-list-link">Technical Documentation</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldocumentation/dbsync/" class="nav-list-link">DB Sync</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldocumentation/navtables/" class="nav-list-link">NAV Tables Documentation</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldocumentation/rrsign/" class="nav-list-link">RRSign</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldocumentation/setupvscode/" class="nav-list-link">Wiki - Set Up VSCode</a></li></ul></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement" class="nav-list-link">Project Management</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement/overview/" class="nav-list-link">PT - Overview</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement/sprintschedule/" class="nav-list-link">Process - Sprint Schedule</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement/standups/" class="nav-list-link">Process - Standup Meeting</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement/storycreation/" class="nav-list-link">Process - Story Creation</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement/storydelivery/" class="nav-list-link">Process - Story Delivery</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/projectmanagement/storytestentry/" class="nav-list-link">Process - Story Tests Entry</a></li></ul></li><li class="nav-list-item active"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams" class="nav-list-link">Technical Diagrams</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodel/" class="nav-list-link">Data Model</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelcorphousing/" class="nav-list-link">Data Model - Corp Housing</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodelroomtypes/" class="nav-list-link">Data Model - Room Types</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/datamodeltraces/" class="nav-list-link">Data Model - Traces</a></li><li class="nav-list-item  active"><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/orgmodel/" class="nav-list-link active">Development Org Model</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams/landscapediagram/" class="nav-list-link">System Landscape</a></li></ul></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/qualityassurance" class="nav-list-link">Quality Assurance</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/qualityassurance/testplans/" class="nav-list-link">Test Plan Info</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/qualityassurance/automatedtests/" class="nav-list-link">Automated Tests</a></li></ul></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/sf_pages_template/docs/development" class="nav-list-link">Development</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/development/sandboxes/" class="nav-list-link">Sandboxes</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/development/sfdxauthorizeorg/" class="nav-list-link">SFDX - Authorize an Org</a></li><li class="nav-list-item "><a href="http://localhost:4000/sf_pages_template/docs/development/sourcecontrol/" class="nav-list-link">Source Control</a></li></ul></li><li class="nav-list-item"><a href="http://localhost:4000/sf_pages_template/docs/submitticket/" class="nav-list-link">Submit an Issue</a></li></ul>
+
+      
+    </nav>
+
+  </div>
+  <div class="main" id="top">
+    <div id="main-header" class="main-header">
+      
+      
+      
+        <nav aria-label="Auxiliary" class="aux-nav">
+          <ul class="aux-nav-list">
+            
+          </ul>
+        </nav>
+      
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list">
+              
+                <li class="breadcrumb-nav-list-item"><a href="http://localhost:4000/sf_pages_template/docs/technicaldiagrams">Technical Diagrams</a></li>
+              
+              <li class="breadcrumb-nav-list-item"><span>Development Org Model</span></li>
+            </ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+        
+          <h1 class="no_toc" id="org-model-for-deployments">
+        
+        
+          <a href="#org-model-for-deployments" class="anchor-heading" aria-labelledby="org-model-for-deployments"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Org Model for Deployments
+        
+        
+      </h1>
+    
+      <h2 class="no_toc text-delta" id="table-of-contents">
+        
+        
+          <a href="#table-of-contents" class="anchor-heading" aria-labelledby="table-of-contents"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Table of contents
+        
+        
+      </h2>
+    
+
+<ol id="markdown-toc">
+  <li><a href="#scope" id="markdown-toc-scope">Scope</a></li>
+  <li><a href="#diagram" id="markdown-toc-diagram">Diagram</a></li>
+  <li><a href="#details" id="markdown-toc-details">Details</a>    <ol>
+      <li><a href="#sandboxorg-breakdown" id="markdown-toc-sandboxorg-breakdown">Sandbox/Org Breakdown</a></li>
+    </ol>
+  </li>
+</ol><hr />
+      <h2 id="scope">
+        
+        
+          <a href="#scope" class="anchor-heading" aria-labelledby="scope"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Scope
+        
+        
+      </h2>
+    
+
+<p>This diagram should cover all system connections at a high level without getting into the technical details.</p>
+      <h2 id="diagram">
+        
+        
+          <a href="#diagram" class="anchor-heading" aria-labelledby="diagram"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Diagram
+        
+        
+      </h2>
+    
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQunR9nwT8r4D54AtjhEvSVMlTBIGlQf48isHGt5FSmb-Jc0ZRaTVMPVs2CuPFG6MT_ruGZz3e-89L/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      <h2 id="details">
+        
+        
+          <a href="#details" class="anchor-heading" aria-labelledby="details"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Details
+        
+        
+      </h2>
+    
+      <h3 id="sandboxorg-breakdown">
+        
+        
+          <a href="#sandboxorg-breakdown" class="anchor-heading" aria-labelledby="sandboxorg-breakdown"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Sandbox/Org Breakdown
+        
+        
+      </h3>
+    
+
+<p>The diagram above shows orgs of a few different types which are listed in the following table</p>
+
+<div class="table-wrapper"><table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Sandbox</th>
+      <th style="text-align: left">Purpose</th>
+      <th style="text-align: left">Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">rrdev</td>
+      <td style="text-align: left">QA testing org where features are tested</td>
+      <td style="text-align: left">DEVELOPER_PRO</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">preprod</td>
+      <td style="text-align: left">UAT testing org where we perform UAT in addition to staging for Production deployments</td>
+      <td style="text-align: left">Partial</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Hotfix Sandbox</td>
+      <td style="text-align: left">A sandbox created at the time of a bug being reported, direct path to Production.  Does not follow the same rrdev preprod path</td>
+      <td style="text-align: left">Partial</td>
+    </tr>
+  </tbody>
+</table></div>
+
+        
+
+        
+
+        
+        
+          <hr>
+          <footer>
+            
+              <p><a href="#top" id="back-to-top">Back to top</a></p>
+            
+
+            <p class="text-small text-grey-dk-100 mb-0"></p>
+
+            
+              <div class="d-flex mt-2">
+                
+                
+                  <p class="text-small text-grey-dk-000 mb-0">
+                    <a href="https://github.com/sfdcboss/sf_pages_template/edit/main/docs/technicaldiagrams/orgmodel.md" id="edit-this-page">Edit this page on GitHub</a>
+                  </p>
+                
+              </div>
+            
+          </footer>
+        
+
+      </div>
+    </div>
+
+    
+  </div>
+</body>
+</html>
+
