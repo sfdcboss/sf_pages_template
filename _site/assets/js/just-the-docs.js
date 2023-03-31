@@ -59,7 +59,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'http://localhost:4000/sf_pages_template/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'https://sfdcboss.github.io/sf_pages_template/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready

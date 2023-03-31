@@ -1,4 +1,0 @@
-how to fix ? /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:24:10: note: did not find header 'config.h' in framework 'ruby' (loaded from '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks')
-
-
-b'If you are using Xcode, you can try running the following command in your terminal:\n\nxcode-select --install\n\nThis will install the required headers and should solve the issue.'
